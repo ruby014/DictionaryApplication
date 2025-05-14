@@ -1,0 +1,235 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ruchelle\\OneDrive\\Documents\\winter_2025\\oop345\\assignments\\assignment1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D35D8D80-02CF-49FF-8CD3-5C74E8808F30}|assignment1.vcxproj|C:\\Users\\Ruchelle\\OneDrive\\Documents\\winter_2025\\oop345\\assignments\\assignment1\\tester_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D35D8D80-02CF-49FF-8CD3-5C74E8808F30}|assignment1.vcxproj|solutionrelative:tester_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D35D8D80-02CF-49FF-8CD3-5C74E8808F30}|assignment1.vcxproj|C:\\Users\\Ruchelle\\OneDrive\\Documents\\winter_2025\\oop345\\assignments\\assignment1\\dictionary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D35D8D80-02CF-49FF-8CD3-5C74E8808F30}|assignment1.vcxproj|solutionrelative:dictionary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D35D8D80-02CF-49FF-8CD3-5C74E8808F30}|assignment1.vcxproj|C:\\Users\\Ruchelle\\OneDrive\\Documents\\winter_2025\\oop345\\assignments\\assignment1\\dictionary.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D35D8D80-02CF-49FF-8CD3-5C74E8808F30}|assignment1.vcxproj|solutionrelative:dictionary.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D35D8D80-02CF-49FF-8CD3-5C74E8808F30}|assignment1.vcxproj|C:\\Users\\Ruchelle\\OneDrive\\Documents\\winter_2025\\oop345\\assignments\\assignment1\\english_small.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D35D8D80-02CF-49FF-8CD3-5C74E8808F30}|assignment1.vcxproj|solutionrelative:english_small.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D35D8D80-02CF-49FF-8CD3-5C74E8808F30}|assignment1.vcxproj|C:\\Users\\Ruchelle\\OneDrive\\Documents\\winter_2025\\oop345\\assignments\\assignment1\\settings.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D35D8D80-02CF-49FF-8CD3-5C74E8808F30}|assignment1.vcxproj|solutionrelative:settings.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D35D8D80-02CF-49FF-8CD3-5C74E8808F30}|assignment1.vcxproj|C:\\Users\\Ruchelle\\OneDrive\\Documents\\winter_2025\\oop345\\assignments\\assignment1\\settings.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D35D8D80-02CF-49FF-8CD3-5C74E8808F30}|assignment1.vcxproj|solutionrelative:settings.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D35D8D80-02CF-49FF-8CD3-5C74E8808F30}|assignment1.vcxproj|C:\\Users\\Ruchelle\\OneDrive\\Documents\\winter_2025\\oop345\\assignments\\assignment1\\timeMonitor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D35D8D80-02CF-49FF-8CD3-5C74E8808F30}|assignment1.vcxproj|solutionrelative:timeMonitor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D35D8D80-02CF-49FF-8CD3-5C74E8808F30}|assignment1.vcxproj|C:\\Users\\Ruchelle\\OneDrive\\Documents\\winter_2025\\oop345\\assignments\\assignment1\\event.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D35D8D80-02CF-49FF-8CD3-5C74E8808F30}|assignment1.vcxproj|solutionrelative:event.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D35D8D80-02CF-49FF-8CD3-5C74E8808F30}|assignment1.vcxproj|C:\\Users\\Ruchelle\\OneDrive\\Documents\\winter_2025\\oop345\\assignments\\assignment1\\EVENT.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D35D8D80-02CF-49FF-8CD3-5C74E8808F30}|assignment1.vcxproj|solutionrelative:EVENT.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D35D8D80-02CF-49FF-8CD3-5C74E8808F30}|assignment1.vcxproj|C:\\Users\\Ruchelle\\OneDrive\\Documents\\winter_2025\\oop345\\assignments\\assignment1\\timeMonitor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D35D8D80-02CF-49FF-8CD3-5C74E8808F30}|assignment1.vcxproj|solutionrelative:timeMonitor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D35D8D80-02CF-49FF-8CD3-5C74E8808F30}|assignment1.vcxproj|C:\\Users\\Ruchelle\\OneDrive\\Documents\\winter_2025\\oop345\\assignments\\assignment1\\english_large.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D35D8D80-02CF-49FF-8CD3-5C74E8808F30}|assignment1.vcxproj|solutionrelative:english_large.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D35D8D80-02CF-49FF-8CD3-5C74E8808F30}|assignment1.vcxproj|C:\\Users\\Ruchelle\\OneDrive\\Documents\\winter_2025\\oop345\\assignments\\assignment1\\logger.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D35D8D80-02CF-49FF-8CD3-5C74E8808F30}|assignment1.vcxproj|solutionrelative:logger.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D35D8D80-02CF-49FF-8CD3-5C74E8808F30}|assignment1.vcxproj|C:\\Users\\Ruchelle\\OneDrive\\Documents\\winter_2025\\oop345\\assignments\\assignment1\\logger.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D35D8D80-02CF-49FF-8CD3-5C74E8808F30}|assignment1.vcxproj|solutionrelative:logger.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dictionary.cpp",
+              "DocumentMoniker": "C:\\Users\\Ruchelle\\OneDrive\\Documents\\winter_2025\\oop345\\assignments\\assignment1\\dictionary.cpp",
+              "RelativeDocumentMoniker": "dictionary.cpp",
+              "ToolTip": "C:\\Users\\Ruchelle\\OneDrive\\Documents\\winter_2025\\oop345\\assignments\\assignment1\\dictionary.cpp",
+              "RelativeToolTip": "dictionary.cpp",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAhwG4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-25T22:57:41.722Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dictionary.h",
+              "DocumentMoniker": "C:\\Users\\Ruchelle\\OneDrive\\Documents\\winter_2025\\oop345\\assignments\\assignment1\\dictionary.h",
+              "RelativeDocumentMoniker": "dictionary.h",
+              "ToolTip": "C:\\Users\\Ruchelle\\OneDrive\\Documents\\winter_2025\\oop345\\assignments\\assignment1\\dictionary.h",
+              "RelativeToolTip": "dictionary.h",
+              "ViewState": "AgIAABAAAAAAAAAAAAAhwCUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-25T22:57:33.132Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "logger.h",
+              "DocumentMoniker": "C:\\Users\\Ruchelle\\OneDrive\\Documents\\winter_2025\\oop345\\assignments\\assignment1\\logger.h",
+              "RelativeDocumentMoniker": "logger.h",
+              "ToolTip": "C:\\Users\\Ruchelle\\OneDrive\\Documents\\winter_2025\\oop345\\assignments\\assignment1\\logger.h",
+              "RelativeToolTip": "logger.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-25T02:03:13.475Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "logger.cpp",
+              "DocumentMoniker": "C:\\Users\\Ruchelle\\OneDrive\\Documents\\winter_2025\\oop345\\assignments\\assignment1\\logger.cpp",
+              "RelativeDocumentMoniker": "logger.cpp",
+              "ToolTip": "C:\\Users\\Ruchelle\\OneDrive\\Documents\\winter_2025\\oop345\\assignments\\assignment1\\logger.cpp",
+              "RelativeToolTip": "logger.cpp",
+              "ViewState": "AgIAABoAAAAAAAAAAAAhwAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-25T02:03:32.371Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "english_large.csv",
+              "DocumentMoniker": "C:\\Users\\Ruchelle\\OneDrive\\Documents\\winter_2025\\oop345\\assignments\\assignment1\\english_large.csv",
+              "RelativeDocumentMoniker": "english_large.csv",
+              "ToolTip": "C:\\Users\\Ruchelle\\OneDrive\\Documents\\winter_2025\\oop345\\assignments\\assignment1\\english_large.csv",
+              "RelativeToolTip": "english_large.csv",
+              "ViewState": "AgIAALDEAAAAAAAAAAAwwHQDAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-01-19T02:14:43.248Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "timeMonitor.cpp",
+              "DocumentMoniker": "C:\\Users\\Ruchelle\\OneDrive\\Documents\\winter_2025\\oop345\\assignments\\assignment1\\timeMonitor.cpp",
+              "RelativeDocumentMoniker": "timeMonitor.cpp",
+              "ToolTip": "C:\\Users\\Ruchelle\\OneDrive\\Documents\\winter_2025\\oop345\\assignments\\assignment1\\timeMonitor.cpp",
+              "RelativeToolTip": "timeMonitor.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-25T19:55:26.613Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "tester_1.cpp",
+              "DocumentMoniker": "C:\\Users\\Ruchelle\\OneDrive\\Documents\\winter_2025\\oop345\\assignments\\assignment1\\tester_1.cpp",
+              "RelativeDocumentMoniker": "tester_1.cpp",
+              "ToolTip": "C:\\Users\\Ruchelle\\OneDrive\\Documents\\winter_2025\\oop345\\assignments\\assignment1\\tester_1.cpp",
+              "RelativeToolTip": "tester_1.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAALwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-19T02:17:33.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "timeMonitor.h",
+              "DocumentMoniker": "C:\\Users\\Ruchelle\\OneDrive\\Documents\\winter_2025\\oop345\\assignments\\assignment1\\timeMonitor.h",
+              "RelativeDocumentMoniker": "timeMonitor.h",
+              "ToolTip": "C:\\Users\\Ruchelle\\OneDrive\\Documents\\winter_2025\\oop345\\assignments\\assignment1\\timeMonitor.h",
+              "RelativeToolTip": "timeMonitor.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-25T19:55:19.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "event.cpp",
+              "DocumentMoniker": "C:\\Users\\Ruchelle\\OneDrive\\Documents\\winter_2025\\oop345\\assignments\\assignment1\\event.cpp",
+              "RelativeDocumentMoniker": "event.cpp",
+              "ToolTip": "C:\\Users\\Ruchelle\\OneDrive\\Documents\\winter_2025\\oop345\\assignments\\assignment1\\event.cpp",
+              "RelativeToolTip": "event.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-25T02:29:05.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "settings.h",
+              "DocumentMoniker": "C:\\Users\\Ruchelle\\OneDrive\\Documents\\winter_2025\\oop345\\assignments\\assignment1\\settings.h",
+              "RelativeDocumentMoniker": "settings.h",
+              "ToolTip": "C:\\Users\\Ruchelle\\OneDrive\\Documents\\winter_2025\\oop345\\assignments\\assignment1\\settings.h",
+              "RelativeToolTip": "settings.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-19T02:24:42.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "event.h",
+              "DocumentMoniker": "C:\\Users\\Ruchelle\\OneDrive\\Documents\\winter_2025\\oop345\\assignments\\assignment1\\event.h",
+              "RelativeDocumentMoniker": "event.h",
+              "ToolTip": "C:\\Users\\Ruchelle\\OneDrive\\Documents\\winter_2025\\oop345\\assignments\\assignment1\\event.h",
+              "RelativeToolTip": "event.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-24T20:25:20.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "settings.cpp",
+              "DocumentMoniker": "C:\\Users\\Ruchelle\\OneDrive\\Documents\\winter_2025\\oop345\\assignments\\assignment1\\settings.cpp",
+              "RelativeDocumentMoniker": "settings.cpp",
+              "ToolTip": "C:\\Users\\Ruchelle\\OneDrive\\Documents\\winter_2025\\oop345\\assignments\\assignment1\\settings.cpp",
+              "RelativeToolTip": "settings.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-19T02:24:53.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "english_small.csv",
+              "DocumentMoniker": "C:\\Users\\Ruchelle\\OneDrive\\Documents\\winter_2025\\oop345\\assignments\\assignment1\\english_small.csv",
+              "RelativeDocumentMoniker": "english_small.csv",
+              "ToolTip": "C:\\Users\\Ruchelle\\OneDrive\\Documents\\winter_2025\\oop345\\assignments\\assignment1\\english_small.csv",
+              "RelativeToolTip": "english_small.csv",
+              "ViewState": "AgIAAL4BAAAAAAAAAAAAAPQBAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-01-19T02:17:31.76Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
