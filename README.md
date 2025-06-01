@@ -1,100 +1,77 @@
 # 📚 C++ Dictionary Application
 
-A C++ console application that allows users to load, search, and manage a dictionary of words and definitions. Includes optional modules for performance monitoring, event logging, and user settings.
+A console-based C++ application that allows users to load, search, and manage a dictionary of words and definitions. Built as part of **OOP345** to include performance monitoring and event logging.
+
+---
 
 ## 🚀 Features
 
-- Load words and definitions from a text file
-- Search for definitions
-- Add and remove words
-- View performance metrics (execution time)
-- Optional: Event logging and configurable settings
+- 📂 Load words and definitions from `.csv` files (`english_small.csv`, `english_large.csv`)
+- 🔍 Search for word definitions
+- ➕ Add new words to the dictionary
+- ❌ Remove existing words
+- ⏱️ Measure performance metrics (execution time in nanoseconds)
+- 📝 Optional modules:
+  - Event logging (via `Logger` and `Event` classes)
+  - Configurable settings
 
+---
 
-## 🧭 How to Run DictionaryApplication in Visual Studio (Windows)
+## 🛠️ Tech Stack
+
+- C++17
+- STL (`<vector>`, `<chrono>`, etc.)
+- Custom classes: `Dictionary`, `TimeMonitor`, `Event`, `Logger`
+
+---
+
+## 🧭 How to Run the Application (Visual Studio on Windows)
 
 ### ✅ Prerequisites
 
-- **Visual Studio** (Community/Professional/Enterprise) installed  
-- **Desktop development with C++** workload enabled
-- A terminal or command line environment
-- C++ compiler (e.g., `g++` or MSVC)
-- C++17 standard support or higher
+- Visual Studio (Community/Professional/Enterprise)
+- Desktop development with C++ workload enabled
+- C++17 standard support
+- A terminal or command prompt
+- `.csv` files: `english_small.csv` or `english_large.csv`
 
 ---
 
-### 🛠️ Step-by-Step Instructions
+### 🧱 Setup Instructions
 
-#### 1. Clone the Repository
+1. **Clone the Repository**
 
-```bash
-git clone https://github.com/your-username/DictionaryApplication.git
-```
+   ```bash
+   git clone https://github.com/your-username/DictionaryApplication.git
 
-Or download the ZIP from GitHub and extract it.
+Or download the ZIP and extract it.
 
----
+### Open in Visual Studio
 
-#### 2. Open Visual Studio
+1. Launch Visual Studio  
+2. Go to **File > Open > CMake...**  
+3. Select the root folder of the project  
 
-- Launch **Visual Studio**
-- Go to **File > Open > CMake...**
-- Navigate to the cloned/extracted `DictionaryApplication` folder and open it
+✅ **Alternatively, for manual setup:**  
 
-> ✅ If you're **not using CMake**, follow the steps below to manually set up the project.
+1. Create a new C++ Console App project  
+2. Add all `.cpp` and `.h` files from `src/` and `include/`  
 
----
+### Set Include and Working Directory Paths
 
-#### 3. Create a New C++ Project (Manual Setup)
+1. Right-click your project → **Properties**  
+2. Under **C/C++ > General > Additional Include Directories:**  
+   - Add: `$(ProjectDir)include`  
+3. Under **Debugging > Working Directory:**  
+   - Add: `$(ProjectDir)data`  
 
-- Go to **File > New > Project**
-- Select **Console App (C++)**
-- Name it something like `DictionaryAppVS`
-- Choose a location to store the solution
+### Set C++ Language Standard
 
-Once the project is created:
+1. Go to **C/C++ > Language**  
+2. Set: `ISO C++17 Standard (/std:c++17)`  
 
-- Right-click the project name in **Solution Explorer**
-- Select **Add > Existing Item...**
-- Add all `.cpp` and `.h` files from the `src/` and `include/` folders
+### Build and Run
 
----
+1. Go to **Build > Build Solution**
+2. Run using **Ctrl + F5** (Start Without Debugging)  
 
-#### 4. Configure Include and Data Paths
-
-1. Right-click your project → **Properties**
-2. Go to **C/C++ > General > Additional Include Directories**
-   - Add: `$(ProjectDir)include`
-3. Go to **Debugging > Working Directory**
-   - Set it to: `$(ProjectDir)data`
-
-> This ensures your program can find `dictionary.txt` when running.
-
----
-
-#### 5. Set C++ Language Standard
-
-1. In the same **Properties** window:
-2. Navigate to **C/C++ > Language**
-3. Set **C++ Language Standard** to: `ISO C++17 Standard (/std:c++17)`
-
----
-
-#### 6. Build the Project
-
-- Go to **Build > Build Solution** or press `Ctrl+Shift+B`
-- Fix any compile errors if they appear
-
----
-
-#### 7. Run the Application
-
-- Press `Ctrl+F5` or go to **Debug > Start Without Debugging**
-- The console should launch and begin running the Dictionary app
-
----
-
-### 📝 Notes
-
-- Make sure `dictionary.txt` is in the correct location or adjust the working directory to point to it
-- If using logging, ensure your app has permission to write to files in the output directory
